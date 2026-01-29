@@ -11,5 +11,7 @@ ${{\color{#ddbada}\Large{\textsf{art\}}}}\$ ᵇʸ zinveil    ![Image](https://gi
   
  <img width="540" height="462" alt="Image" src="https://github.com/user-attachments/assets/527524e3-af80-4501-9e4a-f11fe115c2d1" />
 
+<img width="98" height="56" alt="Image" src="https://github.com/user-attachments/assets/1637e8f5-649e-44ad-9f80-4ce32e6573c5" /> ![Image](https://github.com/user-attachments/assets/f6be4201-69fb-4a9b-a9a0-11b315300477) <img width="98" height="56" alt="Image" src="https://github.com/user-attachments/assets/d6e2bf18-2f1d-4093-acf4-6ff71083c21a" />
+
   </div>
 
